@@ -9,5 +9,5 @@ npm run dev
 ## Frontend
 ### Steps to run frontend locally -
 ```javascript
-npm dev run
+npm run dev
 ```
