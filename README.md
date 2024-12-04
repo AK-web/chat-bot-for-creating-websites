@@ -1,12 +1,12 @@
 # chat-bot-for-creating-websites
 
-## Backend
+## 1. Backend
 ### Steps to run backend locally - 
 ```javascript 
 npm run dev
 ```
 
-## Frontend
+## 2. Frontend
 ### Steps to run frontend locally -
 ```javascript
 npm run dev
